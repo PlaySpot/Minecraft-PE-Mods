@@ -1,9 +1,10 @@
+//The Blocks IDs
 var Anvil_Bottom = 241;
 var Anvil_Bottom2 = 242;
 var Anvil_Top2 = 243;
 var Anvil_Top = 244;
 
-//We Define 4 Blocks 
+//We Define The 4 Blocks 
 Block.defineBlock(Anvil_Bottom, "Anvil",[["cauldron_inner", 0]],1,false);
 Block.defineBlock(Anvil_Bottom2, "Anvil",[["cauldron_inner", 0]],1,false);
 Block.defineBlock(Anvil_Top2, "Anvil",[["cauldron_inner", 0]],1,false);
