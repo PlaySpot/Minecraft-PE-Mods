@@ -21,6 +21,7 @@ string VersionNameH()
 	return "§3Buffer 1.0";
 }
 
+//T$smsR is Touch::startMenuScreen::chooseRandomSplash()
 void (*T$smsR)(Touch::StartMenuScreen*);
 void T$smsH(Touch::StartMenuScreen* screen)
 {
